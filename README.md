@@ -20,10 +20,10 @@ A flexible Chat Application for open source software society.
 
 ## Screenshots
 #### Client:
-![client chat view](https://github.com/grand-kaveh/my_css_layouts/blob/main/shared/djangochatapp-client-1.4.png)
+![client chat view](https://github.com/grand-kaveh/front-templates/blob/main/shared/djangochatapp-client-1.4.png)
 
 #### Supporter panel:
-![supporter panel view](https://github.com/grand-kaveh/my_css_layouts/blob/main/shared/djangochatapp-supporter-1.4.png)
+![supporter panel view](https://github.com/grand-kaveh/front-templates/blob/main/shared/djangochatapp-supporter-1.4.png)
 
 ## Features
 - Supporter panel
@@ -126,9 +126,9 @@ path('', include('chatapp.urls', namespace='chatapp')),
 6. Now, Click the blue button in your screen and test your chat application.
 
 ## Set Supporter
-After installing the package, you need to define a Supporter.
-go to Django administration and set a supporter in SupporterModel Table.    
-After that, go to your supporter panel at /django-chatapp/chat/supporter/.
+After installing the package, you need to define a Supporter. <br>
+go to Django administration and set a supporter in SupporterModel Table. <br>   
+After that, go to your supporter panel at /django-chatapp/chat/supporter/ <br>
 Use & Enjoy.
 
 ## Customize Settings
@@ -218,7 +218,7 @@ Thank you for contributing to our project!
 ## License
 MIT License
 
-Copyright (c) 2023 django-chatapp
+Copyright (c) 2025 django-chatapp
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
