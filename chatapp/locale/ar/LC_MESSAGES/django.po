@@ -1,0 +1,188 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-31 22:05+0330\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+#: .\admin.py:14
+msgid "حذف کاربران غیرفعال در ۳۰ روز اخیر"
+msgstr "احذف المستخدمين غير النشطين في آخر 30 يومًا"
+
+#: .\admin.py:22
+msgid "حذف کاربرانی که مسدود شده اند"
+msgstr "إزالة المستخدمين المحظورين"
+
+#: .\admin.py:29
+msgid "آزادکردن کاربرانی که مسدود شده اند"
+msgstr "تحرير المستخدمين المحظورين"
+
+#: .\apps.py:8 .\models.py:46
+msgid "چت کاربر و پشتیبان"
+msgstr "دردشة ودعم المستخدم"
+
+#: .\models.py:10
+msgid "آیدی پشتیبان"
+msgstr "معرف النسخ الاحتياطي"
+
+#: .\models.py:11 .\models.py:31 .\models.py:34 .\models.py:97
+msgid "کاربر"
+msgstr "مستخدم"
+
+#: .\models.py:12
+msgid "نام نمایشی"
+msgstr "اسم العرض"
+
+#: .\models.py:13
+msgid "فعال / غیرفعال"
+msgstr "نشط سلبي"
+
+#: .\models.py:18 .\models.py:31 .\models.py:35 .\models.py:80 .\models.py:96
+msgid "پشتیبان"
+msgstr "يدعم"
+
+#: .\models.py:19
+msgid "پشتیبان ها"
+msgstr "أنصار"
+
+#: .\models.py:33
+msgid "پاسخ"
+msgstr "إجابة"
+
+#: .\models.py:36
+msgid "ارسال کننده"
+msgstr "مرسل"
+
+#: .\models.py:37
+msgid "متن پیام"
+msgstr "رسالة نصية"
+
+#: .\models.py:38
+msgid "آیا این پیام دیده شده است؟"
+msgstr "هل شوهدت هذه الرسالة؟"
+
+#: .\models.py:39
+msgid "آیا این پیام ویرایش شده است؟"
+msgstr "هل تم تحرير هذه الرسالة؟"
+
+#: .\models.py:40
+msgid "متن پیام قبل از ویرایش"
+msgstr "نص الرسالة قبل التحرير"
+
+#: .\models.py:41
+msgid "آیا این پیام حذف شده است؟"
+msgstr "هل تم حذف هذه الرسالة؟"
+
+#: .\models.py:47
+msgid "چت های کاربر و پشتیبان"
+msgstr "المستخدم ودعم الدردشات"
+
+#: .\models.py:56
+msgid "آیدی چت کاربر"
+msgstr "معرف الدردشة للمستخدم"
+
+#: .\models.py:57
+msgid "آیا پشتیبان دارد؟"
+msgstr "هل بها نسخة احتياطية؟"
+
+#: .\models.py:58
+msgid "نام"
+msgstr "اسم"
+
+#: .\models.py:59
+msgid "نام خانوادگی"
+msgstr "اسم العائلة"
+
+#: .\models.py:60
+msgid "ایمیل"
+msgstr "بريد إلكتروني"
+
+#: .\models.py:61
+msgid "شماره تماس"
+msgstr "رقم التليفون"
+
+#: .\models.py:62
+msgid "آیا مسدود شده است؟"
+msgstr "هل تم حظره؟"
+
+#: .\models.py:63
+msgid "تعداد گزارش ها"
+msgstr "عدد التقارير"
+
+#: .\models.py:68
+msgid "اطلاعات کاربر"
+msgstr "معلومات المستخدم"
+
+#: .\models.py:69
+msgid "اطلاعات کاربران"
+msgstr "معلومات المستخدم"
+
+#: .\models.py:78
+msgid "عنوان"
+msgstr "عنوان"
+
+#: .\models.py:79
+msgid "محتوا"
+msgstr "محتوى"
+
+#: .\models.py:81
+msgid "آیا برای تمامی پشتیبان ها نمایش داده شود؟"
+msgstr "هل سيتم عرضها لجميع النسخ الاحتياطية؟"
+
+#: .\models.py:85
+msgid "پیام آماده ی پشتیبان"
+msgstr "رسالة جاهزة للنسخ الاحتياطي"
+
+#: .\models.py:86
+msgid "پیام های آماده ی پشتیبان ها"
+msgstr "رسائل جاهزة للنسخ الاحتياطي"
+
+#: .\models.py:95
+msgid "استفاده از کلمات نامناسب"
+msgstr "استخدام كلمات غير لائقة"
+
+#: .\models.py:95
+msgid "دلایل دیگر"
+msgstr "أسباب أخرى"
+
+#: .\models.py:98
+msgid "دلیل گزارش"
+msgstr "سبب التقرير"
+
+#: .\models.py:99
+msgid "متن گزارش"
+msgstr "نص التقرير"
+
+#: .\models.py:104
+msgid "گزارش کاربر"
+msgstr "تقرير المستخدم"
+
+#: .\models.py:105
+msgid "گزارش کاربران"
+msgstr "تقرير المستخدم"
+
+#: .\templates\supporter.html:10
+msgid "صفحه‌ی پشتیبان"
+msgstr "صفحة النسخ الاحتياطي"
+
+#: .\utils.py:63
+msgid "خوش آمدید"
+msgstr "مرحباً"
+
+#: .\utils.py:68
+msgid "لطفا کمی صبر کنید"
+msgstr "يرجى الانتظار قليلاً"
