@@ -1,5 +1,5 @@
 [![PyPi Version](https://img.shields.io/pypi/v/django-chatapp.svg)](https://pypi.org/project/django-chatapp/1.4/)
-[![GitHub stars](https://img.shields.io/github/stars/saeedrezaghazanfari/django-chat-app.svg?style=social)](https://github.com/saeedrezaghazanfari/django-chat-app)
+[![GitHub stars](https://img.shields.io/github/stars/grand-kaveh/django-chat-app.svg?style=social)](https://github.com/grand-kaveh/django-chat-app)
 <br><br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -9,21 +9,21 @@
 A flexible Chat Application for open source software society.
 
 ## Table of Contents
-- [Screenshots](https://github.com/saeedrezaghazanfari/django-chat-app#screenshots)
-- [Features](https://github.com/saeedrezaghazanfari/django-chat-app#features)
-- [Prerequisites](https://github.com/saeedrezaghazanfari/django-chat-app#prerequisites)
-- [Quick Start](https://github.com/saeedrezaghazanfari/django-chat-app#quick-start)
-- [Customize Settings](https://github.com/saeedrezaghazanfari/django-chat-app#customize-settings)
-- [Contributing](https://github.com/saeedrezaghazanfari/django-chat-app#contributing)
-- [History](https://github.com/saeedrezaghazanfari/django-chat-app#history)
-- [License](https://github.com/saeedrezaghazanfari/django-chat-app#license)
+- [Screenshots](https://github.com/grand-kaveh/django-chat-app#screenshots)
+- [Features](https://github.com/grand-kaveh/django-chat-app#features)
+- [Prerequisites](https://github.com/grand-kaveh/django-chat-app#prerequisites)
+- [Quick Start](https://github.com/grand-kaveh/django-chat-app#quick-start)
+- [Customize Settings](https://github.com/grand-kaveh/django-chat-app#customize-settings)
+- [Contributing](https://github.com/grand-kaveh/django-chat-app#contributing)
+- [History](https://github.com/grand-kaveh/django-chat-app#history)
+- [License](https://github.com/grand-kaveh/django-chat-app#license)
 
 ## Screenshots
 #### Client:
-![client chat view](https://github.com/saeedrezaghazanfari/my_css_layouts/blob/main/shared/djangochatapp-client-1.4.png)
+![client chat view](https://github.com/grand-kaveh/my_css_layouts/blob/main/shared/djangochatapp-client-1.4.png)
 
 #### Supporter panel:
-![supporter panel view](https://github.com/saeedrezaghazanfari/my_css_layouts/blob/main/shared/djangochatapp-supporter-1.4.png)
+![supporter panel view](https://github.com/grand-kaveh/my_css_layouts/blob/main/shared/djangochatapp-supporter-1.4.png)
 
 ## Features
 - Supporter panel
