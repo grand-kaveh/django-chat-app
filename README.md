@@ -1,4 +1,4 @@
-[![PyPi Version](https://img.shields.io/pypi/v/django-chatapp.svg)](https://pypi.org/project/django-chatapp/1.4/)
+[![PyPi Version](https://img.shields.io/pypi/v/django-chatapp.svg)](https://pypi.org/project/django-chatapp/2.1/)
 [![GitHub stars](https://img.shields.io/github/stars/grand-kaveh/django-chat-app.svg?style=social)](https://github.com/grand-kaveh/django-chat-app)
 <br><br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -213,7 +213,7 @@ Please ensure that your code is well-tested and follows our code style guideline
 Thank you for contributing to our project!
 
 ## History
-- Version 1.4 (2023-Mar-23) - First stable release
+- Version 2.0 (2025-Nov-1) - First stable release
 
 ## License
 MIT License

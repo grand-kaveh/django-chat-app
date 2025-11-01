@@ -20,6 +20,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+MORE.md
+test_1/*
 
 build/
 django_chatapp.egg-info/

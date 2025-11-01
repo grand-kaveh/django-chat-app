@@ -9,16 +9,16 @@ def read_me(filename):
 
 setup(
     name='django-chatapp',
-    version='1.4',
-    python_requires='>=3',
+    version='2.1',
+    python_requires='<=3.12',
     packages=find_packages(),
     include_package_data=True,
     description=(
         'A flexible Chat Application for open source software society.'
     ),
-    url='https://github.com/saeedrezaghazanfari/django-chat-app',
-    download_url='https://pypi.org/project/django-chatapp/1.4/',
-    author='SaeedReza Ghazanfari',
+    url='https://github.com/grand-kaveh/django-chat-app',
+    download_url='https://pypi.org/project/django-chatapp/2.1/',
+    author='Grand Kaveh',
     author_email='great.kaveh.2000@gmail.com',
     keywords="django chat websocket channels asgi vuejs",
     license='MIT',
