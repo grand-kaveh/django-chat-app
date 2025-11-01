@@ -20,7 +20,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-MORE.md
+test_1/
 test_1/*
 
 build/
